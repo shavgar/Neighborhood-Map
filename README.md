@@ -8,7 +8,6 @@ Requirements:
 A browser that can properly run HTML, JAVASCRIPT, CSS
 
 Run The Project:
-
 1- Download the Zip file and then extract it
 2- Double click on index.html file
 3- Click on one of the location names in the list or type it
